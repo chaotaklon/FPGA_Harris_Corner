@@ -19,3 +19,6 @@ Or any OV7670 module without FIFO with the same pinout.
 
 ### How to connect between the FPGA board and the camera
 See the PCB.pdf. The schematic has been loss. R1, R2 are 4.7k pull up resistors. R3, R4 are 100ohm protection resistors. The MPU9150 part is not necessary for this project.
+
+### Contact
+Alan Chao (chaotaklon@gmail.com)
